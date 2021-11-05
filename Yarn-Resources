@@ -8,7 +8,7 @@
 
 2. -ys 数量（每个 taskmanager 的 Slot 数量）
 
-   taskManager = 程序需要的 Slot / Slot 	（向上取整）
+   taskManager = 程序需要的 Slot / Slot 	（taskManager 计算结果向上取整）
 
    * container = taskManager + 1（jobManager）
 
