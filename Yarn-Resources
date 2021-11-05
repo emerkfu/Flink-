@@ -14,4 +14,4 @@ Flink On Yarn 资源分配
 
    * container = taskManager + 1（jobManager）
 
-   * Allocate Memory = container * 3GB（container默认内存大小）
+   * Allocate Memory = container * 3GB（container 默认内存大小）
